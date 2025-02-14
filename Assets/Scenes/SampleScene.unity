@@ -224,7 +224,7 @@ Camera:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingPath: -1
-  m_TargetTexture: {fileID: 0}
+  m_TargetTexture: {fileID: 8400000, guid: ee120b214667ddb429bfd4ef1cfcdf77, type: 2}
   m_TargetDisplay: 0
   m_TargetEye: 3
   m_HDR: 1
@@ -327,9 +327,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _spoutName: MGUnityDemo-Main
   _keepAlpha: 1
-  _captureMethod: 1
+  _captureMethod: 2
   _sourceCamera: {fileID: 330585545}
-  _sourceTexture: {fileID: 0}
+  _sourceTexture: {fileID: 8400000, guid: ee120b214667ddb429bfd4ef1cfcdf77, type: 2}
   _resources: {fileID: 11400000, guid: f449ebbe2051c2e4d993eaa773a410de, type: 2}
 --- !u!1 &410087039
 GameObject:
@@ -657,9 +657,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _spoutName: MGUnityDemo-Top
   _keepAlpha: 1
-  _captureMethod: 1
+  _captureMethod: 2
   _sourceCamera: {fileID: 1575166735}
-  _sourceTexture: {fileID: 0}
+  _sourceTexture: {fileID: 8400000, guid: 6be5d0d8157664e4e99e2fce267508a5, type: 2}
   _resources: {fileID: 11400000, guid: f449ebbe2051c2e4d993eaa773a410de, type: 2}
 --- !u!114 &1575166733
 MonoBehaviour:
@@ -746,7 +746,7 @@ Camera:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingPath: -1
-  m_TargetTexture: {fileID: 0}
+  m_TargetTexture: {fileID: 8400000, guid: 6be5d0d8157664e4e99e2fce267508a5, type: 2}
   m_TargetDisplay: 0
   m_TargetEye: 3
   m_HDR: 1
